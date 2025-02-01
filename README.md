@@ -29,10 +29,10 @@ Distributed under the [Creative Commons Zero v1.0 Universal](https://choosealice
 
 ## Acknowledgments
 
-- [Twilight 2000 4th Edition](https://frialigan.se/en/games/twilight-2000/) roleplaying game by [Fria Ligan / Free League](https://frialigan.se/en/).
+- [Twilight 2000 4th Edition](https://freeleaguepublishing.com/games/twilight-2000/) roleplaying game by Free League.
 
 ## Contact
 
 - GitHub repository: [apa64/twilight-2000-resources](https://github.com/apa64/twilight-2000-resources/)
-- Twitter [@apa64](https://twitter.com/apa64)
+- MAstodon: [@apa64@mementomori.social](https://mementomori.social/@apa64)
 - Facebook group [Twilight: 2000 by Free League](https://www.facebook.com/groups/twilight2000freeleague)
